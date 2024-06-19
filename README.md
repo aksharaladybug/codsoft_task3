@@ -1,5 +1,2 @@
 # codsoft_task3
-A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
-User Input: Prompt the user to specify the desired length of the password.
-Generate Password: Use a combination of random characters to generate a password of the specified length.
-Display the Password: Print the generated password on the screen.
+This project involves designing a password generator application using Python to create strong and random passwords for users. The application will prompt the user to specify the desired length and complexity of the password. It will then generate the password using a combination of random characters and display the generated password on the screen.
